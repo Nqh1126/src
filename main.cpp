@@ -7,6 +7,9 @@
 #include "constants.h"
 #include "highscore.h"  // Bao gồm tệp header highscore.h
 
+
+//game ne
+
 const char* PLAYER_IMAGE = "D:/SDLgame/src/assets/player.png";
 const char* ENEMY_IMAGE = "D:/SDLgame/src/assets/enemy.png";
 const char* BULLET_IMAGE = "D:/SDLgame/src/assets/bullet.png";

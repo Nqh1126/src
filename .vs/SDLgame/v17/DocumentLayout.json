@@ -82,8 +82,7 @@
               "RelativeToolTip": "highscore.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-14T20:51:47.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T20:51:47.419Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "highscore.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-14T20:51:26.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T20:51:26.934Z"
             },
             {
               "$type": "Document",
@@ -154,7 +152,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "D:\\SDLgame\\src\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwBAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-11T17:33:24.37Z",
               "EditorCaption": ""
@@ -181,8 +179,7 @@
               "RelativeToolTip": "utils.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-12T07:12:00.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T07:12:00.597Z"
             },
             {
               "$type": "Document",
@@ -218,8 +215,7 @@
               "RelativeToolTip": "function.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-12T07:15:55.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T07:15:55.145Z"
             },
             {
               "$type": "Document",
@@ -243,8 +239,7 @@
               "RelativeToolTip": "constants.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-12T07:12:07.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T07:12:07.878Z"
             },
             {
               "$type": "Document",
@@ -256,8 +251,7 @@
               "RelativeToolTip": "bullet.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-12T07:12:07.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T07:12:07.106Z"
             }
           ]
         }
