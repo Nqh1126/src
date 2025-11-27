@@ -1,2 +1,2 @@
-# src
+# Game code bằng SDL
  
